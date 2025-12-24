@@ -1,16 +1,5 @@
-# foodmenu_admin
+FoodMenu is an easy-to-use hostel food ordering web application that allows students and residents to browse the food menu and place orders directly from any device — without the need for waiters or manual order taking.
 
-A new Flutter project.
+This project is designed to be generic and reusable for any hostel. You don’t need to change the code to adapt it; just update configuration (menu items, prices) via a JSON object.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Demo: https://foodmenu-bb86e.web.app/
