@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "foodmenu-6fd56",
+    "foodmenuadmin": "foodmenu-6fd56",
+    "foodmenu": "foodmenu-bb86e"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
